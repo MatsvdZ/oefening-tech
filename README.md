@@ -2,4 +2,4 @@
 
 ## Inhoudsopgave
 
-hoe is het met jullie
+Welkom bij mijn repository voor blok tech!
