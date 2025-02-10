@@ -1,0 +1,48 @@
+fieldset {
+  border: none;
+}
+
+legend {
+  font-size: 2em;
+  color: darkblue;
+  margin-bottom: 1em;
+}
+
+input {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: flex;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgb(251, 249, 249);
+}
+
+input:focus {
+  background-color: rgb(206, 206, 255);
+  border: 5px solid pink;
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  width: 100%;
+  background-color: rgb(89, 0, 255);
+  color: white;
+  padding: 14px 20px;
+  border: none;
+  border-radius: 4px;
+}
+
+input[type="color"] {
+  width: 15%;
+}
+
+input[type="submit"] {
+  width: 30%;
+}
+
+div {
+  background-color: rgb(230, 230, 230);
+  padding: 1em;
+}
