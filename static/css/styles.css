@@ -1,13 +1,7 @@
 /* form */
 
-fieldset {
-  border: none;
-}
-
-legend {
-  font-size: 2em;
-  color: darkblue;
-  margin-bottom: 1em;
+label {
+  font-size: larger;
 }
 
 input {
@@ -36,15 +30,6 @@ input[type="submit"] {
   border-radius: 4px;
 }
 
-input[type="color"] {
-  width: 15%;
-}
-
 input[type="submit"] {
   width: 30%;
-}
-
-div {
-  background-color: rgb(230, 230, 230);
-  padding: 1em;
 }
